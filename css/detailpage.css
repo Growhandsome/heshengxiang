@@ -1,0 +1,68 @@
+@import url("header.css");
+@import url("footer.css");
+body{
+	margin: 0;
+}
+.banner{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.banner img{
+	width: 100%;
+	display: block;
+}
+.banner .bannerC{
+	width: 100%;
+	height: 31px;
+	background-color: #606060;
+	float: left;
+}
+.banner .bannerC p{
+	margin: 0;
+	text-align: center;
+	color: #eaeaea;
+}
+.banner .bannerC p span{
+	color: #f4f4f4;
+	padding-left: 20px;
+}
+.middle{
+	width: 100%;
+}
+.middle .middleC{
+	width: 1002px;
+	margin: 0 auto;
+}
+.middle .middleC p{
+	color: #aaaaaa;
+	font-size: 12px;
+}
+.middle .middleC span{
+	color: #aaaaaa;
+	font-size: 12px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #dfdfdf;
+	padding-right: 10px;
+}
+.middle .middleC span input{
+	width: 113px;
+	border-radius:1px;
+	margin-left: 200px;
+	background-color: #999999;
+	color:#f8f8f8;
+}
+.middle .middleC .middleImg{
+	text-align: center;
+}
+.middle .middleC .middleBtn{
+	text-align: center;
+	padding: 34px 0px;
+}
+.middle .middleC .middleBtn input{
+	width: 68px;
+	height: 30px;
+	background-color: #ffffff;
+	color: #666666;
+	border: 1px solid #bdbdbd;
+}

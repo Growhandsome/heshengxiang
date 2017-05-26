@@ -1,0 +1,47 @@
+.header{
+	width: 100%;
+	height: 61px;
+	background-color: #1673c9;
+}
+a,
+a:visited,
+a:link{
+	text-decoration: none;
+	color: #fff;
+}
+.header .nav{
+	width: 1002px;
+	height: 61px;
+	margin: 0 auto;
+}
+.header .nav .logo{
+	float: left;
+}
+.nav .menu{
+	list-style: none;
+	float: left;
+	padding-top:40px;
+	margin: 0;
+}
+.nav .menu li{
+	float: left;
+	padding-left:20px;
+}
+.nav input{
+	margin-top: 40px;
+}
+.nav .tet{
+	margin-left: 120px;
+	float: left;
+}
+.nav .btn{
+	width: 52px;
+	height: 21px;
+	background-color: #ff8a00;
+	cursor: pointer;
+	border: none;
+	float: left;
+}
+.crear{
+	clear: both;
+}

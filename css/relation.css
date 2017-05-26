@@ -1,0 +1,83 @@
+@import url("header.css");
+@import url("footer.css");
+body{
+	margin: 0;
+}
+.banner{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.banner img{
+	width: 100%;
+	display: block;
+}
+.banner .bannerC{
+	width: 100%;
+	height: 31px;
+	background-color: #606060;
+	float: left;
+}
+.content{
+	width: 100%;
+}
+.content .map{
+	width: 1002px;
+	margin: 0 auto;
+	padding: 10px 5px;
+}
+.content .map img{
+	width: 100%;
+}
+.content .route{
+	width: 1002px;
+	margin: 0 auto;
+	padding-left: 50px;
+}
+.content .route h3{
+	color: #3385ff;
+}
+.content .route p{
+	color: #666666;
+}
+.content .route span{
+	border: 1px solid #d4d4d4;
+	color: #6c66d5;
+	margin: 0 8px;
+}
+.content .massage{
+	width: 1002px;
+	margin: 0 auto;
+	background-color: #606060;
+	padding-bottom: 20px;
+}
+.content .massage h4{
+	text-align: center;
+	font-size: 18px;
+	padding-top: 10px;
+	color: #FFFFFF;
+}
+.content .massage .masscon{
+	width: 95%;
+	margin: 0 auto;
+	background-color: #F4F4F4;
+}
+.content .massage .masscon h5{
+	padding:20px 0 20px 130px;
+}
+.content .massage .masscon .masstext{
+	padding-left: 130px;
+}
+.content .massage .masscon .masstext input{
+	padding:10px 200px;
+}
+.content .massage .masscon .massbtn{
+	padding-left: 440px;
+}
+.content .massage .masscon .massbtn input{
+	width: 80px;
+	height: 25px;
+	background-color: #606060;
+	color: #FFFFFF;
+	margin: 30px 0;
+}
